@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BrightServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BrightServer_jar</output-path>
+    <root id="archive" name="BrightServer.jar">
+      <element id="module-output" name="BrightServer" />
+    </root>
+  </artifact>
+</component>
